@@ -1,0 +1,192 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model CategoryDelivery {
+  id              String            @id @default(cuid())
+  name            String
+  position        Int               @default(1)
+  createdAt       DateTime          @default(now()) @map("created_at")
+  updatedAt       DateTime          @updatedAt @map("updated_at")
+  ProductDelivery ProductDelivery[]
+
+  @@map("category_delivery")
+}
+
+model CategoryCatering {
+  id              String            @id @default(cuid())
+  name            String
+  position        Int               @default(1)
+  createdAt       DateTime          @default(now()) @map("created_at")
+  updatedAt       DateTime          @updatedAt @map("updated_at")
+  ProductCatering ProductCatering[]
+
+  @@map("category_catering")
+}
+
+model ProductDelivery {
+  id           String            @id @default(cuid())
+  name         String
+  description  String?
+  weight       Int?
+  pieces       Int?
+  price        Int?
+  image        String?           @default("/uploads/default.png")
+  categoryId   String?           @map("category_id")
+  createdAt    DateTime          @default(now()) @map("created_at")
+  updatedAt    DateTime          @updatedAt @map("updated_at")
+  cateringCart Boolean           @default(false) @map("catering_cart")
+  deliveryCart Boolean           @default(false) @map("delivery_cart")
+  category     CategoryDelivery? @relation(fields: [categoryId], references: [id])
+  promoCodes   PromoCode[]       @relation("PromoProducts")
+
+  @@map("product_delivery")
+}
+
+model ProductCatering {
+  id           String            @id @default(cuid())
+  name         String
+  description  String?
+  weight       Int?
+  price        Int?
+  minOrder     Int               @default(1)
+  image        String?           @default("/uploads/default.png")
+  categoryId   String?           @map("category_id")
+  createdAt    DateTime          @default(now()) @map("created_at")
+  updatedAt    DateTime          @updatedAt @map("updated_at")
+  cateringCart Boolean           @default(false) @map("catering_cart")
+  deliveryCart Boolean           @default(false) @map("delivery_cart")
+  category     CategoryCatering? @relation(fields: [categoryId], references: [id])
+
+  @@map("product_catering")
+}
+
+model User {
+  id        String   @id @default(cuid())
+  createdAt DateTime @default(now()) @map("created_at")
+  updatedAt DateTime @updatedAt @map("updated_at")
+  email     String   @unique
+  password  String
+  name      String   @default("No name")
+  role      UserRole @default(USER)
+
+  @@map("user")
+}
+
+model Stories {
+  id          String   @id @default(cuid())
+  name        String?
+  createdAt   DateTime @default(now()) @map("created_at")
+  updatedAt   DateTime @updatedAt @map("updated_at")
+  description String?
+  stories     Story[]
+
+  @@map("stories")
+}
+
+model Story {
+  id        String  @id @default(cuid())
+  image     String  @default("/uploads/default.png")
+  storiesId String  @map("stories_id")
+  stories   Stories @relation(fields: [storiesId], references: [id], onDelete: Cascade)
+
+  @@map("story")
+}
+
+model WorkTime {
+  id      String  @id @default(cuid())
+  from    String?
+  to      String?
+  message String?
+
+  @@map("work_time")
+}
+
+model HolidayTime {
+  id      String  @id @default(cuid())
+  from    String?
+  to      String?
+  message String?
+
+  @@map("holiday_time")
+}
+
+model PromoCode {
+  id        String            @id @default(cuid())
+  name      String?
+  minPrice  Float?            @map("min_price")
+  isArchive Boolean           @default(false) @map("is_archive")
+  createdAt DateTime          @default(now())
+  updatedAt DateTime          @updatedAt
+  orders    Order[]           @relation("PromoCodeToOrders")
+  products  ProductDelivery[] @relation("PromoProducts")
+
+  @@map("promo_code")
+}
+
+model Order {
+  id          String      @id @default(uuid())
+  accountId   String
+  promoCodeId String?
+  totalAmount Float
+  status      OrderStatus @default(PENDING)
+  createdAt   DateTime    @default(now())
+  updatedAt   DateTime    @updatedAt
+  items       OrderItem[]
+  account     Accounts    @relation(fields: [accountId], references: [id])
+  promoCode   PromoCode?  @relation("PromoCodeToOrders", fields: [promoCodeId], references: [id])
+
+  @@map("orders")
+}
+
+model OrderItem {
+  id        String   @id @default(uuid())
+  orderId   String
+  productId String
+  name      String
+  price     Float
+  quantity  Int
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+  order     Order    @relation(fields: [orderId], references: [id])
+
+  @@map("order_items")
+}
+
+model Accounts {
+  id        String   @id @default(uuid())
+  email     String   @unique
+  otp       Int?
+  expiresAt Int?     @map("expires_at")
+  createdAt DateTime @default(now()) @map("created_at")
+  updatedAt DateTime @updatedAt @map("updated_at")
+  orders    Order[]
+
+  @@map("accounts")
+}
+
+enum UserRole {
+  USER
+  ADMIN
+}
+
+enum OrderStatus {
+  PENDING
+  COMPLETED
+}
+
+model Banner {
+  id        String   @id @default(uuid())
+  isActive  Boolean  @default(false)
+  imageUrl  String   @default("")
+  linkUrl   String?
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  @@map("banner")
+}

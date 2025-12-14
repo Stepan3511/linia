@@ -1,0 +1,1288 @@
+[
+  {
+    "name": "Фудбоксы",
+    "position": 1,
+    "products": [
+      {
+        "name": "Волованы",
+        "description": "Закуска из слоеного теста с творожным сыром, креветкой, апельсином, семгой и каперсами",
+        "weight": 0,
+        "pieces": 0,
+        "price": 2400,
+        "image": "/uploads/delivery/resized-1733378154254-Valovany_s_krevetkoj_i_lososem.jpg",
+        "catering_cart": false,
+        "delivery_cart": false
+      },
+      {
+        "name": "Бокс беби-бургеров",
+        "description": "Мини-бургеры с говядиной.",
+        "weight": 0,
+        "pieces": 16,
+        "price": 1950,
+        "image": "/uploads/delivery/resized-1732847649673-Bebi_burger.jpg",
+        "catering_cart": false,
+        "delivery_cart": false
+      },
+      {
+        "name": "Бокс сэндвичей",
+        "description": "Салями и курица",
+        "weight": 0,
+        "pieces": 16,
+        "price": 1400,
+        "image": "/uploads/delivery/resized-1732848642493-Boks_sendvichej.jpg",
+        "catering_cart": false,
+        "delivery_cart": false
+      },
+      {
+        "name": "Бокс круассанов",
+        "description": "Круассан с лососем 6 шт., круассан с ростбифом 6 шт.",
+        "weight": 0,
+        "pieces": 12,
+        "price": 1150,
+        "image": "/uploads/delivery/resized-1732849690434-Boks_kruassanov.jpg",
+        "catering_cart": false,
+        "delivery_cart": false
+      },
+      {
+        "name": "Бокс салатов",
+        "description": "Лосось с соусом маракуйя, цезарь с курицей, салат с хамоном и грушей",
+        "weight": 0,
+        "pieces": 9,
+        "price": 2100,
+        "image": "/uploads/delivery/resized-1732850649998-Salatnyj_boks.jpg",
+        "catering_cart": false,
+        "delivery_cart": false
+      },
+      {
+        "name": "Мини-киш с лососем",
+        "description": "Песочные корзинки с лососем и шпинатом, запечёные под сыром моцарелла",
+        "weight": 0,
+        "pieces": 16,
+        "price": 2400,
+        "image": "/uploads/delivery/resized-1732847477502-Boks_mini_kish.jpg",
+        "catering_cart": false,
+        "delivery_cart": false
+      },
+      {
+        "name": "Мини-киш с жульеном",
+        "description": "Корзинки из песочного теста, наполненные грибным жульеном и запечённые под сыром моцарелла.",
+        "weight": 0,
+        "pieces": 16,
+        "price": 1890,
+        "image": "/uploads/delivery/resized-1732849186987-Boks_mini_kish.jpg",
+        "catering_cart": false,
+        "delivery_cart": false
+      },
+      {
+        "name": "Пирожки с ветчиной и сыром",
+        "description": "Мини пирожки с ветчиной и сыро",
+        "weight": 0,
+        "pieces": 16,
+        "price": 1200,
+        "image": "/uploads/delivery/resized-1732849336825-Boks_pirozhkov.jpg",
+        "catering_cart": false,
+        "delivery_cart": false
+      },
+      {
+        "name": "Пирожки с яблоком и корицей",
+        "description": "Мини пирожки с яблоком и корицей",
+        "weight": 0,
+        "pieces": 16,
+        "price": 1200,
+        "image": "/uploads/delivery/resized-1732849311080-Boks_pirozhkov.jpg",
+        "catering_cart": false,
+        "delivery_cart": false
+      },
+      {
+        "name": "Бокс мини-пицц",
+        "description": "четыре сыра, маргарита, пепперони",
+        "weight": 0,
+        "pieces": 12,
+        "price": 1200,
+        "image": "/uploads/delivery/resized-1732846582827-Boks_mini_pitsts.jpg",
+        "catering_cart": false,
+        "delivery_cart": false
+      },
+      {
+        "name": "Мини-киш с курицей",
+        "description": "Песочные корзинки с курицей и ананасом, запечёные под сыром моцарелла",
+        "weight": 0,
+        "pieces": 16,
+        "price": 1890,
+        "image": "/uploads/delivery/resized-1732849236553-Boks_mini_kish.jpg",
+        "catering_cart": false,
+        "delivery_cart": false
+      },
+      {
+        "name": "Пирожки с капустой",
+        "description": "Пирожки с капустой",
+        "weight": 0,
+        "pieces": 16,
+        "price": 770,
+        "image": "/uploads/delivery/resized-1732849261547-Boks_pirozhkov.jpg",
+        "catering_cart": false,
+        "delivery_cart": false
+      },
+      {
+        "name": "Пирожки с вишней и клубникой",
+        "description": "Бокс пирожков с начинкой из вишни и клубники",
+        "weight": 0,
+        "pieces": 16,
+        "price": 1350,
+        "image": "/uploads/delivery/resized-1732849288016-Boks_pirozhkov.jpg",
+        "catering_cart": false,
+        "delivery_cart": false
+      },
+      {
+        "name": "Корзинки с индейкой",
+        "description": "Слоеные корзинки с паштетом из индейки и вишневым соусом",
+        "weight": 0,
+        "pieces": 16,
+        "price": 1600,
+        "image": "/uploads/delivery/resized-1732849368784-Korzinki_s_pashtetom_iz_indejki_s_vishnevym_sousom.jpg",
+        "catering_cart": false,
+        "delivery_cart": false
+      },
+      {
+        "name": "Эклеры с авокадо",
+        "description": "Эклеры с нежным муссом из авокадо",
+        "weight": 0,
+        "pieces": 0,
+        "price": 2400,
+        "image": "/uploads/delivery/resized-1732948975682-Eklery_s_avokado_v_karameli.jpg",
+        "catering_cart": false,
+        "delivery_cart": false
+      },
+      {
+        "name": "Эклеры с рокфорти и виноградом",
+        "description": "Эклер с муссом из творожного сыра, сыром рокфорти и виноградом. ",
+        "weight": 0,
+        "pieces": 0,
+        "price": 1500,
+        "image": "/uploads/delivery/resized-1732951377552-Eklery_s_rokforti_i_vinogradom.jpg",
+        "catering_cart": false,
+        "delivery_cart": false
+      },
+      {
+        "name": "Хрусты антипасти",
+        "description": "Ассорти из хрустов с вялеными томатами, моцареллой, оливками, маслинами, томатным соусом, песто, салями.",
+        "weight": 0,
+        "pieces": 0,
+        "price": 1440,
+        "image": "/uploads/delivery/resized-1732951631589-Boks_hrustov.jpg",
+        "catering_cart": false,
+        "delivery_cart": false
+      },
+      {
+        "name": "Большой салатный бокс",
+        "description": "Салат цезарь, печеный лосось с соусом маракуйя, салат с пармской ветчиной.",
+        "weight": 0,
+        "pieces": 0,
+        "price": 3900,
+        "image": "/uploads/delivery/resized-1732952043563-Bol'shoj_salatnyj_boks.jpg",
+        "catering_cart": false,
+        "delivery_cart": false
+      },
+      {
+        "name": "Бокс мини-хот-догов",
+        "description": "Мини-колбаски, кетчуп, майонез и листья салата.",
+        "weight": 0,
+        "pieces": 16,
+        "price": 1600,
+        "image": "/uploads/delivery/resized-1733213171559-DSC06926.jpg",
+        "catering_cart": false,
+        "delivery_cart": false
+      },
+      {
+        "name": "Эклеры с копченым муссом из лосося",
+        "description": "Эклеры с копченым муссом из лосося, оливкой, маслиной, вяленым томатом",
+        "weight": 0,
+        "pieces": 15,
+        "price": 1350,
+        "image": "/uploads/delivery/resized-1733376603555-IMG_4120.JPG",
+        "catering_cart": false,
+        "delivery_cart": false
+      },
+      {
+        "name": "Ассорти опаленных тарталеток",
+        "description": "Тарталетки с креветками, курицей, снежным крабом и лососем.",
+        "weight": 0,
+        "pieces": 25,
+        "price": 1990,
+        "image": "/uploads/delivery/resized-1733209370450-Assorti_opalenyh_tartaletok.jpg",
+        "catering_cart": false,
+        "delivery_cart": false
+      },
+      {
+        "name": "Ассорти профитролей",
+        "description": "16 профитролей с разнообразными начинками: с курицей, сыром и ананасами, с языком под горчичным соусом, с крабовым муссом и с творожным сыром и красной икрой. ",
+        "weight": 0,
+        "pieces": 16,
+        "price": 1350,
+        "image": "/uploads/delivery/resized-1733372566260-DSC06908.jpg",
+        "catering_cart": false,
+        "delivery_cart": false
+      },
+      {
+        "name": "Ассорти тарталеток",
+        "description": "С курицей и ананасом, с корнишонами и языком, с крабовым муссом и креветкой, с творожным сыром и икрой, с курицей гриль и спайси соусом.",
+        "weight": 0,
+        "pieces": 0,
+        "price": 1990,
+        "image": "/uploads/delivery/resized-1732847682343-Assorti_tartaletok.jpg",
+        "catering_cart": false,
+        "delivery_cart": false
+      },
+      {
+        "name": "Бокс детский",
+        "description": "Мини-бургер, наггетсы, картошка фри, салат цезарь, соус, домашний лимонад",
+        "weight": 650,
+        "pieces": 1,
+        "price": 1100,
+        "image": "/uploads/delivery/resized-1732776848446-detsciy-box.jpg",
+        "catering_cart": false,
+        "delivery_cart": false
+      }
+    ]
+  },
+  {
+    "name": "Боксы с закусками",
+    "position": 2,
+    "products": [
+      {
+        "name": "Канапе камамбер с грушей",
+        "description": "Сыр камамбер, груша, крем-бальзамик и руккола — это вкуснейшее сочетание!",
+        "weight": 0,
+        "pieces": 15,
+        "price": 1750,
+        "image": "/uploads/delivery/resized-1733375292775-DSC06909.jpg",
+        "catering_cart": false,
+        "delivery_cart": false
+      },
+      {
+        "name": "Бокс рулетиков",
+        "description": "Курица, лосось",
+        "weight": 0,
+        "pieces": 25,
+        "price": 1500,
+        "image": "/uploads/delivery/resized-1733211624820-Ruletiki.jpg",
+        "catering_cart": false,
+        "delivery_cart": false
+      },
+      {
+        "name": "Бокс ассорти сыров",
+        "description": "Маасдам, пармезан, рокфорти, чеддер, косичка, бри, виноград, клубника, мёд, брусничный соус",
+        "weight": 0,
+        "pieces": 0,
+        "price": 1990,
+        "image": "/uploads/delivery/resized-1732847735209-Assorti_syrov.jpg",
+        "catering_cart": false,
+        "delivery_cart": false
+      },
+      {
+        "name": "Ассорти канапе",
+        "description": "Четыре вида канапе: рулетики с баклажаном, лососем, ветчиной, канапе с пепперони и свежим огурцом",
+        "weight": 0,
+        "pieces": 16,
+        "price": 1200,
+        "image": "/uploads/delivery/resized-1732849910604-Assorti_kanape.jpg",
+        "catering_cart": false,
+        "delivery_cart": false
+      },
+      {
+        "name": "Ассорти брускет",
+        "description": "Сёмга, креветка, хамон",
+        "weight": 0,
+        "pieces": 12,
+        "price": 1450,
+        "image": "/uploads/delivery/resized-1732850722626-Assorti_brusket.jpg",
+        "catering_cart": false,
+        "delivery_cart": false
+      },
+      {
+        "name": "Канапе под рюмочку",
+        "description": "Два вида канапе с ветчиной, маслинами, огурцом, корнишонами и помидором.",
+        "weight": 0,
+        "pieces": 24,
+        "price": 1500,
+        "image": "/uploads/delivery/resized-1732847615416-Pod_ryumochku.jpg",
+        "catering_cart": false,
+        "delivery_cart": false
+      },
+      {
+        "name": "Бокс к пенному",
+        "description": "Наггетсы, чесночные гренки, запечённые мидии, крылышки барбекю, пивные креветки, сырные палочки и соус тартар.",
+        "weight": 0,
+        "pieces": 0,
+        "price": 1450,
+        "image": "/uploads/delivery/resized-1732849996591-Boks_k_pennomu.jpg",
+        "catering_cart": false,
+        "delivery_cart": false
+      },
+      {
+        "name": "Ассорти канапе номер три",
+        "description": "Ассорти из канапе с салями, хамоном, помидорами, оливками, вялеными томатами, сыром гауда.",
+        "weight": 0,
+        "pieces": 24,
+        "price": 1900,
+        "image": "/uploads/delivery/resized-1732848788891-Kanape_nomer_tri.jpg",
+        "catering_cart": false,
+        "delivery_cart": false
+      },
+      {
+        "name": "Рулетики из лосося",
+        "description": "Филе лосося с творожным сыром, хреном и соусом крем-бальзамик",
+        "weight": 0,
+        "pieces": 16,
+        "price": 1490,
+        "image": "/uploads/delivery/resized-1732848999755-Ruletiki_iz_lososya.jpg",
+        "catering_cart": false,
+        "delivery_cart": false
+      },
+      {
+        "name": "Ассорти тапасов",
+        "description": "С креветкой, с копченым лососем, с малосольным лососем, с масляной рыбой",
+        "weight": 0,
+        "pieces": 16,
+        "price": 1800,
+        "image": "/uploads/delivery/resized-1732848741418-Assorti_tapasov.jpg",
+        "catering_cart": false,
+        "delivery_cart": false
+      },
+      {
+        "name": "Блинчики с тобико и лососем",
+        "description": "Блинчики, творожный сыр, лосось, икра тобико",
+        "weight": 0,
+        "pieces": 0,
+        "price": 1700,
+        "image": "/uploads/delivery/resized-1732849070667-Blinchiki_s_lososem_i_ikroj_tobiko.jpg",
+        "catering_cart": false,
+        "delivery_cart": false
+      },
+      {
+        "name": "Лосось в лаваше",
+        "description": "Рулетики из лаваша с лососем, зеленью, творожным сыром и вялеными томатами ",
+        "weight": 0,
+        "pieces": 20,
+        "price": 1700,
+        "image": "/uploads/delivery/resized-1732846524096-Losos'_v_lavashe.jpg",
+        "catering_cart": false,
+        "delivery_cart": false
+      },
+      {
+        "name": "Брускетты с ростбифом",
+        "description": "Брускетты с ростбифом и брусничным соусом",
+        "weight": 0,
+        "pieces": 12,
+        "price": 1400,
+        "image": "/uploads/delivery/resized-1733372416118-DSC06936.jpg",
+        "catering_cart": false,
+        "delivery_cart": false
+      },
+      {
+        "name": "Бокс брускетт с уткой",
+        "description": "Бокс брускетт с уткой и грушей с кедровыми орехами и бальзамическим кремом",
+        "weight": 0,
+        "pieces": 12,
+        "price": 1400,
+        "image": "/uploads/delivery/resized-1733363189051-DSC06911.jpg",
+        "catering_cart": false,
+        "delivery_cart": false
+      },
+      {
+        "name": "Коробочка канапе",
+        "description": "Канапе с виноградом, творожным шариком и миндальными лепестками. Канапе с огурцом и салями на тосте. Канапе с хамоном и грушей. Канапе с креветками и виноградом. Канапе с клубникой и двумя видами сыра.",
+        "weight": 0,
+        "pieces": 25,
+        "price": 1350,
+        "image": "/uploads/delivery/resized-1733372487873-DSC06937.jpg",
+        "catering_cart": false,
+        "delivery_cart": false
+      },
+      {
+        "name": "Брускетты с креветкой и тыквенным муссом",
+        "description": "Брускетта с креветками, тыквенным муссом, и соусом крем-бальзамик",
+        "weight": 0,
+        "pieces": 12,
+        "price": 1600,
+        "image": "/uploads/delivery/resized-1732849587714-Brusketty_s_tykvennym_mussom_i_krevetkami.jpg",
+        "catering_cart": false,
+        "delivery_cart": false
+      },
+      {
+        "name": "Рулетики из баклажана",
+        "description": "Рулеты из баклажана с сыром фета",
+        "weight": 0,
+        "pieces": 0,
+        "price": 1260,
+        "image": "/uploads/delivery/resized-1732849049820-Boks_ruletikov_iz_baklazhana_s_fetoj.jpg",
+        "catering_cart": false,
+        "delivery_cart": false
+      },
+      {
+        "name": "Коробочка к вину",
+        "description": "Ассорти сыров, креветки, хамон, виноград, курага, клубника, фисташки, палочки гриссини, брусничный соус",
+        "weight": 0,
+        "pieces": 0,
+        "price": 2200,
+        "image": "/uploads/delivery/resized-1732848688029-Boks_k_vinu.jpg",
+        "catering_cart": false,
+        "delivery_cart": false
+      },
+      {
+        "name": "Бокс канапе цезарь",
+        "description": "Курица, семга, креветка\n",
+        "weight": 0,
+        "pieces": 0,
+        "price": 1550,
+        "image": "/uploads/delivery/resized-1732848827953-Kanape_tsezar'.jpg",
+        "catering_cart": false,
+        "delivery_cart": false
+      }
+    ]
+  },
+  {
+    "name": "Теплые боксы",
+    "position": 3,
+    "products": [
+      {
+        "name": "Бокс жульенов",
+        "description": "Жульены с курицей",
+        "weight": 0,
+        "pieces": 9,
+        "price": 1450,
+        "image": "/uploads/delivery/resized-1732848664028-Boks_zhul'enov.jpg",
+        "catering_cart": false,
+        "delivery_cart": false
+      },
+      {
+        "name": "Бокс стрипсов из лосося с печеным картофелем",
+        "description": "Стрипсы из лосося с печеным картофелем ",
+        "weight": 0,
+        "pieces": 8,
+        "price": 2150,
+        "image": "/uploads/delivery/resized-1732847536091-Boks_stripsov_i_pechenym_kortofelem.jpg",
+        "catering_cart": false,
+        "delivery_cart": false
+      },
+      {
+        "name": "Бокс стрипсов из курицы с печеным картофелем",
+        "description": "Куриные стрипсы с печёным картофелем.",
+        "weight": 0,
+        "pieces": 8,
+        "price": 1700,
+        "image": "/uploads/delivery/resized-1732847517095-Boks_stripsov_i_pechenym_kortofelem.jpg",
+        "catering_cart": false,
+        "delivery_cart": false
+      },
+      {
+        "name": "Ассорти мини-киш",
+        "description": "С грибным жульеном, лососем и шпинатом, языком и болгарским перцем",
+        "weight": 0,
+        "pieces": 9,
+        "price": 1350,
+        "image": "/uploads/delivery/resized-1732848611445-Tartaletki_9_shtuk_assorti.jpg",
+        "catering_cart": false,
+        "delivery_cart": false
+      },
+      {
+        "name": "Бокс шашлычков из семги с печеным картофелем",
+        "description": "Шашлычки из семги, печеный картофель",
+        "weight": 0,
+        "pieces": 6,
+        "price": 1950,
+        "image": "/uploads/delivery/resized-1732848923144-SHashlychki_iz_semgi_s_pechenym_kartofelem.jpg",
+        "catering_cart": false,
+        "delivery_cart": false
+      },
+      {
+        "name": "Бокс куриных шашлычков с печеным картофелем",
+        "description": "Шашлычки из курицы, печеный картофель",
+        "weight": 0,
+        "pieces": 0,
+        "price": 1450,
+        "image": "/uploads/delivery/resized-1732849513169-SHashlychki_iz_semgi_s_pechenym_kartofelem.jpg",
+        "catering_cart": false,
+        "delivery_cart": false
+      },
+      {
+        "name": "Бокс рыбного ассорти на гриле",
+        "description": "Шашлычок из креветок — 4 штуки.\nШашлычок с лососем — 4 штуки.\nРулетики из форели с овощами и соусом песто — 4 штуки.\nЗапечённые мидии — 4 штуки.",
+        "weight": 0,
+        "pieces": 16,
+        "price": 2950,
+        "image": "/uploads/delivery/resized-1732848042753-Rybnoe_assorti_na_grile.jpg",
+        "catering_cart": false,
+        "delivery_cart": false
+      },
+      {
+        "name": "Ассорти шашлычков",
+        "description": "Четыре шашлыка из свинины, четыре шашлыка из курицы, четыре шашлыка из лосося и четыре кукурузных початка, приготовленные на гриле.",
+        "weight": 0,
+        "pieces": 12,
+        "price": 2150,
+        "image": "/uploads/delivery/resized-1732850685550-Assorti_shashlykov.jpg",
+        "catering_cart": false,
+        "delivery_cart": false
+      },
+      {
+        "name": "Шашлычки из свинины",
+        "description": "Шашлычки из свинины с овощами соусом терияки и кунжутом",
+        "weight": 800,
+        "pieces": 1,
+        "price": 2560,
+        "image": "/uploads/delivery/resized-1736236048695-SHashlychki_iz_svininy.jpg",
+        "catering_cart": false,
+        "delivery_cart": false
+      }
+    ]
+  },
+  {
+    "name": "Сладкие боксы",
+    "position": 4,
+    "products": [
+      {
+        "name": "Бокс десертных роллов",
+        "description": "Клубника, банан, киви, манго, персик, кокосовая панировка",
+        "weight": 750,
+        "pieces": 35,
+        "price": 1450,
+        "image": "/uploads/delivery/resized-1733375339819-DSC06895.jpg",
+        "catering_cart": false,
+        "delivery_cart": false
+      },
+      {
+        "name": "Фруктовое канапе",
+        "description": "Канапе с виноградом, ананасом, киви, мятой, коктейльной вишней.",
+        "weight": 0,
+        "pieces": 0,
+        "price": 2299,
+        "image": "/uploads/delivery/resized-1733378344859-Fruktovoe_kanape.jpg",
+        "catering_cart": false,
+        "delivery_cart": false
+      },
+      {
+        "name": "Плавучий остров",
+        "description": "Миндальное печенье, соус с маракуйей, меренга, мята.",
+        "weight": 0,
+        "pieces": 0,
+        "price": 3150,
+        "image": "/uploads/delivery/resized-1733378416157-Plavuchij_ostrov.jpg",
+        "catering_cart": false,
+        "delivery_cart": false
+      },
+      {
+        "name": "Бокс французский",
+        "description": "Бисквит, маршмеллоу, клубника, шоколад",
+        "weight": 0,
+        "pieces": 0,
+        "price": 1900,
+        "image": "/uploads/delivery/resized-1732849659389-Frantsuzskij_boks.jpg",
+        "catering_cart": false,
+        "delivery_cart": false
+      },
+      {
+        "name": "Фруктовая коробочка",
+        "description": "Ассорти из фруктов по сезону",
+        "weight": 1000,
+        "pieces": 0,
+        "price": 1900,
+        "image": "/uploads/delivery/resized-1732848712529-Fruktovyj_boks.jpg",
+        "catering_cart": false,
+        "delivery_cart": false
+      },
+      {
+        "name": "Мини-киш с ягодами",
+        "description": "Корзинки из песочного теста с творожным муссом и ягодами, посыпанные сахарной пудрой.",
+        "weight": 0,
+        "pieces": 16,
+        "price": 1490,
+        "image": "/uploads/delivery/resized-1732849484686-YAgodnye_mini_kish.jpg",
+        "catering_cart": false,
+        "delivery_cart": false
+      },
+      {
+        "name": "Корзинки с яблоком",
+        "description": "Слоеные корзинки с печеным яблоком, корицей, миксом орехов и мёдом",
+        "weight": 0,
+        "pieces": 16,
+        "price": 1600,
+        "image": "/uploads/delivery/resized-1732846453200-ÐÐ¾ÑÐ·Ð¸Ð½ÐºÐ¸ Ñ Ð¿ÐµÑÐµÐ½ÑÐ¼ ÑÐ±Ð»Ð¾ÐºÐ¾Ð¼.jpg",
+        "catering_cart": false,
+        "delivery_cart": false
+      },
+      {
+        "name": "Бокс с клубникой в шоколаде",
+        "description": "Свежая клубника в молочном шоколаде. ",
+        "weight": 0,
+        "pieces": -2,
+        "price": 2400,
+        "image": "/uploads/delivery/resized-1732848098123-Klubnika_v_shokolade.jpg",
+        "catering_cart": false,
+        "delivery_cart": false
+      },
+      {
+        "name": "Бокс десертный",
+        "description": "Тирамису 3шт., клубничный чизкейк 3шт., манговая панакота 3шт.",
+        "weight": 0,
+        "pieces": 9,
+        "price": 2100,
+        "image": "/uploads/delivery/resized-1732849615422-Desertnyj_boks.jpg",
+        "catering_cart": false,
+        "delivery_cart": false
+      },
+      {
+        "name": "Эклеры с шоколадом и голубикой",
+        "description": "Эклеры с молочным шоколадом, голубикой и розмарином ",
+        "weight": 0,
+        "pieces": 0,
+        "price": 1800,
+        "image": "/uploads/delivery/resized-1732952655205-Eklery_s_shokoladom_i_golubikoj.jpg",
+        "catering_cart": false,
+        "delivery_cart": false
+      },
+      {
+        "name": "Ассорти десертных эклеров",
+        "description": "Эклеры с шоколадным и ванильным кремом и ягодами.",
+        "weight": 0,
+        "pieces": 15,
+        "price": 1950,
+        "image": "/uploads/delivery/resized-1732849445208-Assorti_desertnyh_eklerov.jpg",
+        "catering_cart": false,
+        "delivery_cart": false
+      },
+      {
+        "name": "Пирожные шу",
+        "description": "16 пирожных с ванильным и шоколадным кремом\n\n",
+        "weight": 450,
+        "pieces": 16,
+        "price": 1650,
+        "image": "/uploads/delivery/resized-1732765172843-shy.jpg",
+        "catering_cart": false,
+        "delivery_cart": false
+      },
+      {
+        "name": "Шу в карамели",
+        "description": "Шу в карамели с нежной начинкой",
+        "weight": -2,
+        "pieces": 0,
+        "price": 2190,
+        "image": "/uploads/delivery/resized-1733377022841-SHu_v_karameli.jpg",
+        "catering_cart": false,
+        "delivery_cart": false
+      },
+      {
+        "name": "Ассорти капкейков",
+        "description": "Шоколадные капкейки со сливочным и шоколадным кремом",
+        "weight": 0,
+        "pieces": 0,
+        "price": 2100,
+        "image": "/uploads/delivery/resized-1732849410916-Boks_kapkejkov.jpg",
+        "catering_cart": false,
+        "delivery_cart": false
+      }
+    ]
+  },
+  {
+    "name": "Дополнительно",
+    "position": 10,
+    "products": [
+      {
+        "name": "Имбирь",
+        "description": "",
+        "weight": 0,
+        "pieces": 0,
+        "price": 30,
+        "image": "/uploads/delivery/resized-1732937231971-25.jpg",
+        "catering_cart": false,
+        "delivery_cart": true
+      },
+      {
+        "name": "Палочки",
+        "description": "",
+        "weight": 0,
+        "pieces": 0,
+        "price": 10,
+        "image": "/uploads/delivery/resized-1732937193209-1666216853_42-mykaleidoscope-ru-p-paltsi-v-vide-barabannikh-palochek-krasivo-52.jpg",
+        "catering_cart": false,
+        "delivery_cart": true
+      },
+      {
+        "name": "Васаби",
+        "description": "",
+        "weight": 0,
+        "pieces": 0,
+        "price": 30,
+        "image": "/uploads/delivery/resized-1732937270569-584750a4b60a34fe80e734bbd28f144c---jpg_1000x_103c0_convert.jpg",
+        "catering_cart": false,
+        "delivery_cart": true
+      },
+      {
+        "name": "Соевый соус",
+        "description": "",
+        "weight": 1,
+        "pieces": 1,
+        "price": 30,
+        "image": "/uploads/delivery/resized-1740809748895-1-3.jpg",
+        "catering_cart": false,
+        "delivery_cart": true
+      }
+    ]
+  },
+  {
+    "name": "Пицца",
+    "position": 9,
+    "products": [
+      {
+        "name": "Чикен-чикен",
+        "description": "Курочка копчёная, курочка на гриле, сыр моцарелла, фирменный соус",
+        "weight": 550,
+        "pieces": 0,
+        "price": 680,
+        "image": "/uploads/delivery/resized-1739260059552-CHiken_chiken_(1).jpg",
+        "catering_cart": false,
+        "delivery_cart": false
+      },
+      {
+        "name": "Курочка охотника",
+        "description": "Курочка гриль, шампиньоны, сыр, соус",
+        "weight": 550,
+        "pieces": 0,
+        "price": 750,
+        "image": "/uploads/delivery/resized-1739260081369-Kurochka_ohotnika.jpg",
+        "catering_cart": false,
+        "delivery_cart": false
+      },
+      {
+        "name": "Маргарита",
+        "description": "Фирменный томатный соус, сыр, моцарелла",
+        "weight": 400,
+        "pieces": 0,
+        "price": 590,
+        "image": "/uploads/delivery/resized-1739260166491-Margarita.jpg",
+        "catering_cart": false,
+        "delivery_cart": false
+      },
+      {
+        "name": "Гавайская",
+        "description": "Курочка гриль, ананасы, перец болгарский, сыр, соус",
+        "weight": 600,
+        "pieces": 0,
+        "price": 700,
+        "image": "/uploads/delivery/resized-1739260294189-Gavajskaya.jpg",
+        "catering_cart": false,
+        "delivery_cart": false
+      },
+      {
+        "name": "Чили острая",
+        "description": "Пепперони, мясные деликатесы, колбаски охотничьи, перец халапеньо, сыр, соус",
+        "weight": 600,
+        "pieces": 0,
+        "price": 750,
+        "image": "/uploads/delivery/resized-1739259970768-CHili_ostraya_(1).jpg",
+        "catering_cart": false,
+        "delivery_cart": false
+      },
+      {
+        "name": "Карбонара с печеным картофелем",
+        "description": "Бекон, картофель печёный, сыр моцарелла, паприка копченая",
+        "weight": 600,
+        "pieces": 0,
+        "price": 750,
+        "image": "/uploads/delivery/resized-1739260006973-Karbon_s_pech_kart.jpg",
+        "catering_cart": false,
+        "delivery_cart": false
+      },
+      {
+        "name": "Овощная",
+        "description": "Болгарский перец, цукини, баклажан, сыр, соус",
+        "weight": 600,
+        "pieces": 0,
+        "price": 660,
+        "image": "/uploads/delivery/resized-1739260030616-Ovoschnaya.jpg",
+        "catering_cart": false,
+        "delivery_cart": false
+      },
+      {
+        "name": "4 сыра",
+        "description": "Рокфорти, моцарелла, пармезан, сливочный",
+        "weight": 550,
+        "pieces": 0,
+        "price": 750,
+        "image": "/uploads/delivery/resized-1739260210996-DSC_4392_(1).jpg",
+        "catering_cart": false,
+        "delivery_cart": false
+      },
+      {
+        "name": "Пепперони",
+        "description": "Пепперони, сыр, соус",
+        "weight": 550,
+        "pieces": 0,
+        "price": 700,
+        "image": "/uploads/delivery/resized-1739260244581-Peppironi_(3).jpg",
+        "catering_cart": false,
+        "delivery_cart": false
+      },
+      {
+        "name": "Пепперони люкс",
+        "description": "Пепперони, колбаски охотничьи, салями, курочка гриль, томаты, сыр, соус",
+        "weight": 600,
+        "pieces": 0,
+        "price": 790,
+        "image": "/uploads/delivery/resized-1739260273198-Pipperoni_lyuks_(2).jpg",
+        "catering_cart": false,
+        "delivery_cart": false
+      },
+      {
+        "name": "Эби салмон",
+        "description": "Креветки, сёмга, оливки, маслины, томаты, сыр моцарелла, фирменный соус",
+        "weight": 600,
+        "pieces": 0,
+        "price": 990,
+        "image": "/uploads/delivery/resized-1739260356597-Ebi_salamon_(2).jpg",
+        "catering_cart": false,
+        "delivery_cart": false
+      },
+      {
+        "name": "Прошутто",
+        "description": "Хамон, томаты вяленые, оливки, маслины, груша, сыр моцарелла, сыр рокфор, соус",
+        "weight": 550,
+        "pieces": 0,
+        "price": 860,
+        "image": "/uploads/delivery/resized-1739260391112-Proshutto_(2).jpg",
+        "catering_cart": false,
+        "delivery_cart": false
+      },
+      {
+        "name": "Корнишоны с ветчиной",
+        "description": "Корнишоны, ветчина, сыр, соус",
+        "weight": 550,
+        "pieces": 0,
+        "price": 690,
+        "image": "/uploads/delivery/resized-1739260413749-Kornishony_s_vetchinoj.jpg",
+        "catering_cart": false,
+        "delivery_cart": false
+      }
+    ]
+  },
+  {
+    "name": "Салаты",
+    "position": 8,
+    "products": [
+      {
+        "name": "Салат имбирный с языком",
+        "description": "Говяжий язык, микс салата, черри, огурец, кунжут, имбирный соус",
+        "weight": 280,
+        "pieces": 0,
+        "price": 650,
+        "image": "/uploads/delivery/dsc_2565.jpg",
+        "catering_cart": false,
+        "delivery_cart": false
+      },
+      {
+        "name": "Салат с креветками и соусом том ям",
+        "description": "Креветки, микс салата, манго, огурец, жареный орех кешью, авокадо, черри, фирменный соус том ям",
+        "weight": 280,
+        "pieces": 0,
+        "price": 750,
+        "image": "/uploads/delivery/dsc_2275.jpg",
+        "catering_cart": false,
+        "delivery_cart": false
+      },
+      {
+        "name": "Салат цезарь с курицей",
+        "description": "Листья салата, курица, сыр пармезан, сухарики, соус цезарь",
+        "weight": 200,
+        "pieces": 0,
+        "price": 440,
+        "image": "/uploads/delivery/dsc_2098.jpg",
+        "catering_cart": false,
+        "delivery_cart": false
+      },
+      {
+        "name": "Салат цезарь с креветкой",
+        "description": "Листья салата, креветки, сыр пармезан, сухарики, соус цезарь",
+        "weight": 200,
+        "pieces": 0,
+        "price": 690,
+        "image": "/uploads/delivery/dsc_2096.jpg",
+        "catering_cart": false,
+        "delivery_cart": false
+      },
+      {
+        "name": "Салат овощной по-грузински",
+        "description": "Болгарский перец, томаты, лук, свежий огурец, зёрна граната, фирменный ореховый соус",
+        "weight": 300,
+        "pieces": 0,
+        "price": 590,
+        "image": "/uploads/delivery/dsc_2078.jpg",
+        "catering_cart": false,
+        "delivery_cart": false
+      },
+      {
+        "name": "Салат цезарь с лососем",
+        "description": "Листья салата, лосось, сыр пармезан, сухарики, соус цезарь",
+        "weight": 200,
+        "pieces": 0,
+        "price": 750,
+        "image": "/uploads/delivery/dsc_2098.jpg",
+        "catering_cart": false,
+        "delivery_cart": false
+      },
+      {
+        "name": "Салат баклажаны чили",
+        "description": "Баклажаны в кляре, два вида томатов, микс салата, крем бальзамик, творожный сыр, жареный кешью, фирменная заправка",
+        "weight": 300,
+        "pieces": 0,
+        "price": 650,
+        "image": "/uploads/delivery/dsc_2715.jpg",
+        "catering_cart": false,
+        "delivery_cart": false
+      },
+      {
+        "name": "Салат с хрустящим кальмаром",
+        "description": "Кольца кальмара в нежном кляре, печёные овощи, микс салата, фирменная заправка, кунжут",
+        "weight": 280,
+        "pieces": 0,
+        "price": 650,
+        "image": "/uploads/delivery/dsc_2872.jpg",
+        "catering_cart": false,
+        "delivery_cart": false
+      },
+      {
+        "name": "Салат с копчёной курицей",
+        "description": "Копчёная курица, копчёный сыр сулугуни, болгарский перец, огурец, кунжут, лук, фирменная заправка",
+        "weight": 300,
+        "pieces": 0,
+        "price": 590,
+        "image": "/uploads/delivery/dsc_2584.jpg",
+        "catering_cart": false,
+        "delivery_cart": false
+      },
+      {
+        "name": "Салат севиче с лососем на гриль",
+        "description": "Микс салата, сёмга гриль, апельсин без кожи, авокадо,  кедровый орех, сыр творожный, черри, лепестки миндаля, соус маракуйя",
+        "weight": 280,
+        "pieces": 0,
+        "price": 790,
+        "image": "/uploads/delivery/dsc_2178.jpg",
+        "catering_cart": false,
+        "delivery_cart": false
+      }
+    ]
+  },
+  {
+    "name": "Выпечка",
+    "position": 7,
+    "products": [
+      {
+        "name": "Рулет грузинский",
+        "description": "Тесто слоёное, шпинат, зелень, яйцо отварное, сулугуни, брынза рассольная",
+        "weight": 350,
+        "pieces": null,
+        "price": 650,
+        "image": "/uploads/delivery/dsc_0814.jpg",
+        "catering_cart": false,
+        "delivery_cart": false
+      },
+      {
+        "name": "Кубдари",
+        "description": "Тесто, свинина, сыр, зелень, специи",
+        "weight": 600,
+        "pieces": null,
+        "price": 650,
+        "image": "/uploads/delivery/dsc_0762.jpg",
+        "catering_cart": false,
+        "delivery_cart": false
+      },
+      {
+        "name": "Лобиани",
+        "description": "Тесто, фасоль красная, лук жареный, чеснок жареный, специи, зелень",
+        "weight": 600,
+        "pieces": null,
+        "price": 620,
+        "image": "/uploads/delivery/dsc_0854.jpg",
+        "catering_cart": false,
+        "delivery_cart": false
+      },
+      {
+        "name": "Хачапури по-аджарски (слоёное тесто)",
+        "description": "Тесто слоёное, сыр сулугуни, яйцо, масло сливочное",
+        "weight": 600,
+        "pieces": null,
+        "price": 650,
+        "image": "/uploads/delivery/dsc_0789.jpg",
+        "catering_cart": false,
+        "delivery_cart": false
+      },
+      {
+        "name": "Хачапури по-мегрельски",
+        "description": "Тесто, сыр сулугуни, масло сливочное",
+        "weight": 600,
+        "pieces": null,
+        "price": 650,
+        "image": "/uploads/delivery/dsc_0844.jpg",
+        "catering_cart": false,
+        "delivery_cart": false
+      },
+      {
+        "name": "Хачапури по-аджарски (дрожжевое тесто)",
+        "description": "Тесто дрожжевое,сыр сулугуни,яйцо,масло сливочное",
+        "weight": 600,
+        "pieces": null,
+        "price": 580,
+        "image": "/uploads/delivery/dsc_0893.jpg",
+        "catering_cart": false,
+        "delivery_cart": false
+      }
+    ]
+  },
+  {
+    "name": "Боксы с роллами",
+    "position": 5,
+    "products": [
+      {
+        "name": "Гунканы ",
+        "description": "Лосось, угорь, тунец, снежный краб, курица на гриле, соус спайси",
+        "weight": 1150,
+        "pieces": 25,
+        "price": 3900,
+        "image": "/uploads/delivery/resized-1733212032191-DSC06927.jpg",
+        "catering_cart": false,
+        "delivery_cart": false
+      },
+      {
+        "name": "Классика роллы",
+        "description": "Ассорти из пяти роллов: филадельфия, канада, калифорния, филадельфия люкс. ",
+        "weight": 0,
+        "pieces": 0,
+        "price": 2100,
+        "image": "/uploads/delivery/resized-1733377575445-Boks_s_rollami_klassika.jpg",
+        "catering_cart": false,
+        "delivery_cart": false
+      },
+      {
+        "name": "Сет опалённый пикантный",
+        "description": "Чили креветка хот,чилли лосось,,чили гребешок,курица чилли,краб чилли",
+        "weight": 1000,
+        "pieces": 30,
+        "price": 2750,
+        "image": "/uploads/delivery/resized-1733375231242-DSC06892.jpg",
+        "catering_cart": false,
+        "delivery_cart": false
+      },
+      {
+        "name": "Суши сет ассорти",
+        "description": "Угорь, креветка, тунец, лосось, томаго",
+        "weight": 800,
+        "pieces": 25,
+        "price": 2750,
+        "image": "/uploads/delivery/resized-1733213456458-DSC06933.jpg",
+        "catering_cart": false,
+        "delivery_cart": false
+      },
+      {
+        "name": "Сет суши-пицца с курицей",
+        "description": "Рис, курица, трио соусов, кунжут, нори",
+        "weight": 600,
+        "pieces": 16,
+        "price": 1400,
+        "image": "/uploads/delivery/resized-1733374681686-DSC06901.jpg",
+        "catering_cart": false,
+        "delivery_cart": false
+      },
+      {
+        "name": "Сет суши-пицца с угрем",
+        "description": "Рис, угорь, трио соусов, кунжут, нори",
+        "weight": 600,
+        "pieces": 16,
+        "price": 1800,
+        "image": "/uploads/delivery/resized-1733374750193-DSC06901.jpg",
+        "catering_cart": false,
+        "delivery_cart": false
+      },
+      {
+        "name": "Маки сет",
+        "description": "Огурец, лосось, угорь, креветка, тунец, курица, снежный краб",
+        "weight": 600,
+        "pieces": 54,
+        "price": 1750,
+        "image": "/uploads/delivery/resized-1733375171480-DSC06905.jpg",
+        "catering_cart": false,
+        "delivery_cart": false
+      },
+      {
+        "name": "Суши-пицца с угрем с лососем",
+        "description": "Рис, угорь, лосось, трио соусов, кунжут, нори",
+        "weight": 600,
+        "pieces": 16,
+        "price": 1500,
+        "image": "/uploads/delivery/resized-1733213255398-DSC06899.jpg",
+        "catering_cart": false,
+        "delivery_cart": false
+      },
+      {
+        "name": "Сет суши пицца с беконом и зелёным луком",
+        "description": "Рис, бекон, зелёный лук, трио соусов, кунжут, нори",
+        "weight": 600,
+        "pieces": 16,
+        "price": 1400,
+        "image": "/uploads/delivery/resized-1733213080961-DSC06899.jpg",
+        "catering_cart": false,
+        "delivery_cart": false
+      },
+      {
+        "name": "Сет теплый ассорти",
+        "description": "Чили креветка хот, жареный ролл с лососем и дуэтом соусов, жареный с креветкой с соусом свит-чилли, чикен спайси запеченный, запеченный с мидиями и пикантной шапкой",
+        "weight": 970,
+        "pieces": 34,
+        "price": 1600,
+        "image": "/uploads/delivery/resized-1736561390499-teplyyyj.jpg",
+        "catering_cart": false,
+        "delivery_cart": false
+      },
+      {
+        "name": "Сет ассорти запеченный",
+        "description": "Запеченный чикен спайси, запеченный с мидиями и чесночной шапкой, опалённый с креветкой с шапкой том-ям, запеченный с угрём, запеченный с лососем и соусом свит-чилли",
+        "weight": 1000,
+        "pieces": 30,
+        "price": 1800,
+        "image": "/uploads/delivery/resized-1736561355317-zapechenyj.jpg",
+        "catering_cart": false,
+        "delivery_cart": false
+      }
+    ]
+  },
+  {
+    "name": "Праздничные большие боксы",
+    "position": 1,
+    "products": [
+      {
+        "name": "Большой бокс ассорти на гриле",
+        "description": "Свиные ребра, шашлычки из свинины, колбаски, шашлычки из говядины и курицы, запеченый картофель",
+        "weight": 1900,
+        "pieces": 1,
+        "price": 5900,
+        "image": "/uploads/delivery/resized-1733990087649-DSC05623.jpg",
+        "catering_cart": false,
+        "delivery_cart": false
+      },
+      {
+        "name": "Большой бокс Он и Она",
+        "description": "Хамон, сыр бри, сыр маасдам, фисташки, грецкий орех, миндаль, фундук, сырокопченая колбаса, голубика, клубника, финики, курага, помидоры черри, гриссини, вишневый соус, виноград, оливки, маслины.",
+        "weight": 1500,
+        "pieces": 1,
+        "price": 3900,
+        "image": "/uploads/delivery/resized-1733992313444-on_i_ona.jpg",
+        "catering_cart": false,
+        "delivery_cart": false
+      },
+      {
+        "name": "Большой бокс рыбное ассорти",
+        "description": "Копченый кальмар, масляная рыба кета, семга, тосты из багета, каперсы, оливки, лайм, лимон, креветки, сливочное масло с зеленью.",
+        "weight": 1500,
+        "pieces": 1,
+        "price": 5500,
+        "image": "/uploads/delivery/resized-1733991537481-rybnoe_assorti_narezka.jpg",
+        "catering_cart": false,
+        "delivery_cart": false
+      },
+      {
+        "name": "Большой бокс под беленькую",
+        "description": "Квашеная капуста, маринованные огурцы, маринованные патиссоны, соленая грудинка, отварной картофель, соленые грузди, зелень, брусника, маринованные помидоры, ржаной хлеб, отварной язык, горчица, хрен.",
+        "weight": 1700,
+        "pieces": 1,
+        "price": 3900,
+        "image": "/uploads/delivery/resized-1734159711800-pod_belen'kuyu.jpg",
+        "catering_cart": false,
+        "delivery_cart": false
+      },
+      {
+        "name": "Бокс экзотических фруктов",
+        "description": "Маракуйя, питахайя, манго, апельсин, киви, ананас, корейский виноград, свежая клубника и голубика.",
+        "weight": 1800,
+        "pieces": 1,
+        "price": 4900,
+        "image": "/uploads/delivery/resized-1733812076440-DSC05597.jpg",
+        "catering_cart": false,
+        "delivery_cart": false
+      },
+      {
+        "name": "Большой бокс блинчиков",
+        "description": "Блинчики со свежими ягодами и тремя соусами",
+        "weight": 850,
+        "pieces": 1,
+        "price": 2400,
+        "image": "/uploads/delivery/resized-1733812395404-DSC05616.jpg",
+        "catering_cart": false,
+        "delivery_cart": false
+      },
+      {
+        "name": "Большой бокс рыбного ассорти на гриле",
+        "description": "Шашлычок из креветки, шашлычок из семги, мидии, запеченные под сыром, шашлычок из гребешка, шашлычок из кальмара, дорадо, соус песто.",
+        "weight": 2600,
+        "pieces": 1,
+        "price": 7900,
+        "image": "/uploads/delivery/resized-1733991843540-rybnoe_assorti_gri_l'.jpg",
+        "catering_cart": false,
+        "delivery_cart": false
+      },
+      {
+        "name": "Большой бокс мясное ассорти",
+        "description": "Бастурма, суджух, сырокопченая колбаса, черри, розмарин, горчичный соус, говядина, тосты из багета.",
+        "weight": 700,
+        "pieces": 1,
+        "price": 4900,
+        "image": "/uploads/delivery/resized-1733812743442-DSC05584.jpg",
+        "catering_cart": false,
+        "delivery_cart": false
+      },
+      {
+        "name": "Большой бокс кофе-брейк",
+        "description": "Сендвичи с курицей, сендвичи с ветчиной, пирожки с капустой, капкейки, пирожки с мясом и картофелем.",
+        "weight": 1700,
+        "pieces": 1,
+        "price": 2900,
+        "image": "/uploads/delivery/resized-1733991000636-DSC05588.jpg",
+        "catering_cart": false,
+        "delivery_cart": false
+      }
+    ]
+  },
+  {
+    "name": "Напитки",
+    "position": 10,
+    "products": [
+      {
+        "name": "Лимонад Мохито",
+        "description": "",
+        "weight": 0,
+        "pieces": 1,
+        "price": 390,
+        "image": "/uploads/delivery/resized-1736132573924-DSC05687.jpg",
+        "catering_cart": false,
+        "delivery_cart": true
+      },
+      {
+        "name": "Цитрусовый лимонад",
+        "description": "",
+        "weight": 0,
+        "pieces": 1,
+        "price": 390,
+        "image": "/uploads/delivery/resized-1736132631474-DSC05678.jpg",
+        "catering_cart": false,
+        "delivery_cart": true
+      },
+      {
+        "name": "Лимонад Мятная бузина",
+        "description": "",
+        "weight": 0,
+        "pieces": 1,
+        "price": 390,
+        "image": "/uploads/delivery/resized-1736132729875-DSC05693.jpg",
+        "catering_cart": false,
+        "delivery_cart": true
+      }
+    ]
+  }
+]

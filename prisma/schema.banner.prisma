@@ -1,0 +1,9 @@
+// Модель Banner для добавления в schema.prisma
+model Banner {
+  id        String   @id @default(uuid())
+  isActive  Boolean  @default(false)
+  imageUrl  String   @default("")
+  linkUrl   String?
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}

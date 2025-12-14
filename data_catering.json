@@ -1,0 +1,1506 @@
+[
+    {
+        "name": "Холодные закуски",
+        "position": 1,
+        "products": [
+            {
+                "name": "Сендвич с салями",
+                "description": "",
+                "weight": 40,
+                "price": 95,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Канапе с копченой курицей, корнишонами, листом салата и черри",
+                "description": "",
+                "weight": 15,
+                "price": 85,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Брускетта с лососем и каперсами",
+                "description": "",
+                "weight": 35,
+                "price": 120,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Брускетта антипасти с ветчиной, оливками и маслинами, корнишонами",
+                "description": "",
+                "weight": 35,
+                "price": 100,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Брускетта антипасти с сервелатом, оливками и маслинами, корнишонами",
+                "description": "",
+                "weight": 35,
+                "price": 110,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Брускетта с хамоном и вялеными томатами",
+                "description": "",
+                "weight": 35,
+                "price": 120,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Брускетта капрезе с соусом песто и кедровыми орехами",
+                "description": "",
+                "weight": 35,
+                "price": 95,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Брускетта с копченой курицей, оливками и маслинами",
+                "description": "",
+                "weight": 35,
+                "price": 110,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Брускетта с креветкой и апельсином",
+                "description": "",
+                "weight": 35,
+                "price": 120,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Брускетта с ростбифом из говядины с вялеными томатами, соусом тонкацу и луком фри",
+                "description": "",
+                "weight": 35,
+                "price": 120,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Брускетта с сыром рикотта, печеной свеклой, кедровыми орешками и рукколой",
+                "description": "",
+                "weight": 35,
+                "price": 100,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Брускетта с уткой, грушей, кедровыми орешками",
+                "description": "",
+                "weight": 35,
+                "price": 120,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Брускетта с печеным перцем и сыром фета",
+                "description": "",
+                "weight": 35,
+                "price": 95,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Хруст антипасти",
+                "description": "",
+                "weight": 40,
+                "price": 120,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Хруст пепперони",
+                "description": "",
+                "weight": 40,
+                "price": 120,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Рулетики филадельфия из лаваша с лососем, зеленью, сыром и вяленными томатами",
+                "description": "",
+                "weight": 30,
+                "price": 110,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Тапос с лососем",
+                "description": "",
+                "weight": 25,
+                "price": 120,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Тапос с креветкой",
+                "description": "",
+                "weight": 25,
+                "price": 120,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Тапос с копченым лососем",
+                "description": "",
+                "weight": 25,
+                "price": 130,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Тапас с масляной рыбой",
+                "description": "",
+                "weight": 25,
+                "price": 120,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Профитроли гавайские с курицей и ананасом ",
+                "description": "",
+                "weight": 30,
+                "price": 90,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Блек профитроли с вялеными томатами ",
+                "description": "",
+                "weight": 30,
+                "price": 95,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Профитроли с языком, корнишонами и горчичным муссом ",
+                "description": "",
+                "weight": 30,
+                "price": 95,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Профитроли с утиным паштетом и вишневым соусом",
+                "description": "",
+                "weight": 30,
+                "price": 110,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Профитроли со снежным крабом и соусом свит-чили ",
+                "description": "",
+                "weight": 30,
+                "price": 85,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Профитроли с творожным сыром и красной икрой",
+                "description": "",
+                "weight": 25,
+                "price": 160,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Слоенные валованы с творожным сыром спайси и тигровыми креветками",
+                "description": "",
+                "weight": 20,
+                "price": 110,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Слоенные валованы с лососем и творожным сыром",
+                "description": "",
+                "weight": 20,
+                "price": 110,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Мини эклеры с утиным паштетом и персиковым конфитюром ",
+                "description": "",
+                "weight": 25,
+                "price": 95,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Мини эклеры с копченым муссом из лосося с маслинами и оливками",
+                "description": "",
+                "weight": 25,
+                "price": 95,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Мини эклеры с муссом из сыра рокфорти и виноградом",
+                "description": "",
+                "weight": 25,
+                "price": 110,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Рулетики из тортильи с миксом салата, творожным сыром и лососем ",
+                "description": "",
+                "weight": 20,
+                "price": 95,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Рулетики из баклажана с творожным муссом, грецким орехом и аджикой",
+                "description": "",
+                "weight": 15,
+                "price": 85,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Рулетики из тортильи с миксом салата, творожным сыром и курицей",
+                "description": "",
+                "weight": 20,
+                "price": 90,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Рулетики из лосося с творожным сыром",
+                "description": "",
+                "weight": 15,
+                "price": 110,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Рулетики из хамона с сыром бри, рукколой и грушей ",
+                "description": "",
+                "weight": 20,
+                "price": 130,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Фреш рулетики антипасти ",
+                "description": "",
+                "weight": 20,
+                "price": 110,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Блинчик с творожным сыром, лососем и красной и икрой ",
+                "description": "",
+                "weight": 20,
+                "price": 160,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Шашлычки антипасти закусочные с мясными деликатесами ",
+                "description": "",
+                "weight": 50,
+                "price": 160,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Мини круассаны с лососем ",
+                "description": "",
+                "weight": 35,
+                "price": 110,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Мини круассаны с ростбифом",
+                "description": "",
+                "weight": 35,
+                "price": 110,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Беби-бургеры с говядиной ",
+                "description": "",
+                "weight": 60,
+                "price": 120,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Беби-бургеры с курицей и соусом цезарь",
+                "description": "",
+                "weight": 55,
+                "price": 120,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Беби-бургеры с ветчиной",
+                "description": "",
+                "weight": 50,
+                "price": 100,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Беби-бургеры с салями",
+                "description": "",
+                "weight": 50,
+                "price": 110,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Спринг рулетики с лососем в шоте с соусом сливочная маракуйя",
+                "description": "",
+                "weight": 25,
+                "price": 120,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Спринг рулетики с креветкой в шоте с соусом сливочное васаби",
+                "description": "",
+                "weight": 25,
+                "price": 120,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Креветки на пике в шоте с соусом манго-чили ",
+                "description": "",
+                "weight": 35,
+                "price": 120,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Сыры в баночке с капсулой меда, орехом",
+                "description": "",
+                "weight": 25,
+                "price": 120,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Канапе с ростбифом, печеным картофелеми ореховым соусом ",
+                "description": "",
+                "weight": 20,
+                "price": 110,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Сендвич с лососем",
+                "description": "",
+                "weight": 40,
+                "price": 110,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Сендвич с ветчиной",
+                "description": "",
+                "weight": 40,
+                "price": 95,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Канапе с салями, оливкой, листом салата и сыром гауда",
+                "description": "",
+                "weight": 15,
+                "price": 85,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Канапе со свежей клубникой, маршмеллоу, бисквитом под шоколадной глазурью",
+                "description": "",
+                "weight": 35,
+                "price": 130,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Канапе капрезе с песто в шоте",
+                "description": "",
+                "weight": 30,
+                "price": 95,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Канапе с прошутто, персиком, творожным сыром и соусом бальзамик в шоте",
+                "description": "",
+                "weight": 15,
+                "price": 130,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Канапе  рулетики из баклажана с сыром фета и вялеными томатами",
+                "description": "",
+                "weight": 20,
+                "price": 95,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Канапе сырное с виноградом",
+                "description": "",
+                "weight": 15,
+                "price": 75,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Канапе с прошутто и грушей в баночке",
+                "description": "",
+                "weight": 15,
+                "price": 120,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Канапе с клубникой и двумя видами сыра",
+                "description": "",
+                "weight": 15,
+                "price": 120,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Канапе из винограда в творожном шарике в лепестках миндаля",
+                "description": "",
+                "weight": 15,
+                "price": 120,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Канапе камамбер с грушей и орешками",
+                "description": "",
+                "weight": 15,
+                "price": 120,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Канапе рулетик с ветчиной и творожным сыром на багете с хреном",
+                "description": "",
+                "weight": 25,
+                "price": 75,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Канапе рулетик с лососем и творожным сыром на багете с хреном ",
+                "description": "",
+                "weight": 25,
+                "price": 110,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Канапе рулетикк из баклажана с грузинской начинкой из сыра с зеленью на багете",
+                "description": "",
+                "weight": 25,
+                "price": 75,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Канапе цезарь с курицей",
+                "description": "",
+                "weight": 25,
+                "price": 75,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Канапе цезарь с лососем",
+                "description": "",
+                "weight": 25,
+                "price": 95,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Канапе цезарь с креветкой",
+                "description": "",
+                "weight": 25,
+                "price": 95,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Тарталетки гавайские с курочкой и ананасом",
+                "description": "",
+                "weight": 20,
+                "price": 80,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Канапе с ветчиной, оливкой, свежим огурцом и маслиной",
+                "description": "",
+                "weight": 15,
+                "price": 75,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Канапе с салями и вялеными томатами",
+                "description": "",
+                "weight": 15,
+                "price": 85,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Канапе с хамоном, листом салата и черри",
+                "description": "",
+                "weight": 15,
+                "price": 120,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Канапе с хамоном и грушей",
+                "description": "",
+                "weight": 15,
+                "price": 120,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Канапе со свежим огурчиком и сервелатом",
+                "description": "",
+                "weight": 15,
+                "price": 75,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Сендвич с курицей",
+                "description": "",
+                "weight": 40,
+                "price": 95,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Канапе с креветкой и виноградом",
+                "description": "",
+                "weight": 25,
+                "price": 130,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Канапе с хамоном и маслинами",
+                "description": "",
+                "weight": 15,
+                "price": 110,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Тарталетки с корнишонами и языком",
+                "description": "",
+                "weight": 20,
+                "price": 90,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Тарталетки с курицей и соусом спайси ",
+                "description": "",
+                "weight": 20,
+                "price": 80,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Тарталетки с крабовым муссом и креветкой",
+                "description": "",
+                "weight": 20,
+                "price": 90,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Тарталетки с творожным сыром и икрой",
+                "description": "",
+                "weight": 20,
+                "price": 110,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Тарталетки с сливочным маслом и красной икрой",
+                "description": "",
+                "weight": 20,
+                "price": 130,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Тарталетки с креветками и соусом спайси",
+                "description": "",
+                "weight": 20,
+                "price": 95,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Тарталетки со снежным крабом и соусом спайси",
+                "description": "",
+                "weight": 20,
+                "price": 80,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            }
+        ]
+    },
+    {
+        "name": "Нарезки",
+        "position": 1,
+        "products": [
+            {
+                "name": "Доска рыбных деликатесов с оливками, маслинами, лаймом, лимоном  и каперсами",
+                "description": "на 10 человек",
+                "weight": 400,
+                "price": 2900,
+                "minOrder": 1,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Доска мясных деликатесов с вяленными томатами, оливками, маслинами",
+                "description": "на 10 человек",
+                "weight": 400,
+                "price": 2900,
+                "minOrder": 1,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Доска антипасти (мясные деликатесы, сыры, мед, оливки, маслины, вяленные томаты)",
+                "description": "на 10 человек",
+                "weight": 500,
+                "price": 3500,
+                "minOrder": 1,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Сырная доска с виноградом, орехами, ягодами, медом и вишневым соусом",
+                "description": "на 10 человек",
+                "weight": 400,
+                "price": 2500,
+                "minOrder": 1,
+                "image": "/uploads/catering/default.png"
+            }
+        ]
+    },
+    {
+        "name": "Салаты",
+        "position": 1,
+        "products": [
+            {
+                "name": "Салат азиатский с кальмаром, миксом салата, черри, грейпфрутом и цитрусовой заправкой в баночке",
+                "description": "",
+                "weight": 60,
+                "price": 260,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Салат цезарь с курицей в баночке ",
+                "description": "",
+                "weight": 60,
+                "price": 160,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Салат оливье с перепелиным яйцом в баночке",
+                "description": "",
+                "weight": 75,
+                "price": 290,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Салат с креветками и соусом том-ям в баночке",
+                "description": "",
+                "weight": 60,
+                "price": 280,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Салат баклажаны-чили с соусом бальзамик",
+                "description": "",
+                "weight": 60,
+                "price": 240,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Салат овощной по-грузински ",
+                "description": "",
+                "weight": 75,
+                "price": 190,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Салат с копченой курицей ",
+                "description": "",
+                "weight": 70,
+                "price": 220,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Салат с хрустящим кальмаром",
+                "description": "",
+                "weight": 60,
+                "price": 220,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Салат с печеным лососем и соусом манго-маракуйя в баночке",
+                "description": "",
+                "weight": 60,
+                "price": 240,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Салат цезарь с лососем в баночке",
+                "description": "",
+                "weight": 60,
+                "price": 190,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Салат с курицей и сельдереем в горчично-медовом соусе в баночке",
+                "description": "",
+                "weight": 70,
+                "price": 220,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Салат имбирный с языком в баночке ",
+                "description": "",
+                "weight": 60,
+                "price": 190,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Салат с ростбифом и соусом том-ям в баночке",
+                "description": "",
+                "weight": 60,
+                "price": 220,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Салат с креветками и соусом манго-маракуйя в баночке",
+                "description": "",
+                "weight": 60,
+                "price": 240,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Салат цезарь с креветками в баночке",
+                "description": "",
+                "weight": 60,
+                "price": 190,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            }
+        ]
+    },
+    {
+        "name": "Выпечка",
+        "position": 1,
+        "products": [
+            {
+                "name": "Пирожки с ветчиной и сыром",
+                "description": "",
+                "weight": 35,
+                "price": 75,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Пирог киш-лорен мясной ",
+                "description": "",
+                "weight": 1500,
+                "price": 2500,
+                "minOrder": 1,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Пирог киш-лорен с лососем ",
+                "description": "",
+                "weight": 1500,
+                "price": 2700,
+                "minOrder": 1,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Пирог киш-лорен с курицей и грибами",
+                "description": "",
+                "weight": 1500,
+                "price": 2500,
+                "minOrder": 1,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Мини сырники с дуэтом соусов",
+                "description": "",
+                "weight": 50,
+                "price": 130,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Бэби пицца с охотничьими колбасками",
+                "description": "",
+                "weight": 25,
+                "price": 75,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Печенье в ассортименте",
+                "description": "",
+                "weight": 100,
+                "price": 150,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Мини-киш рататуй",
+                "description": "",
+                "weight": 40,
+                "price": 75,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Мини-киш ягодный",
+                "description": "",
+                "weight": 40,
+                "price": 110,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Мини-киш с беконом и картофелем",
+                "description": "",
+                "weight": 40,
+                "price": 90,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Мини-киш с грибным жульеном",
+                "description": "",
+                "weight": 40,
+                "price": 90,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Мини-киш с лососем и шпинатом",
+                "description": "",
+                "weight": 40,
+                "price": 110,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Мини-киш с курицей",
+                "description": "",
+                "weight": 40,
+                "price": 90,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Мини-киш с говядиной и болгарским перцем",
+                "description": "",
+                "weight": 40,
+                "price": 90,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Слойка с персиком",
+                "description": "",
+                "weight": 35,
+                "price": 85,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Слойка с сыром и ветчиной",
+                "description": "",
+                "weight": 35,
+                "price": 85,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Ватрушка с творогом и свежей ягодой",
+                "description": "",
+                "weight": 35,
+                "price": 110,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Пирожок с творогом и изюмом",
+                "description": "",
+                "weight": 35,
+                "price": 90,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Пирожки с яблоком и корицей",
+                "description": "",
+                "weight": 35,
+                "price": 85,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Пирожки с мясом, аджикой и зеленью",
+                "description": "",
+                "weight": 35,
+                "price": 90,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Пирожки с мясом и картофелем",
+                "description": "",
+                "weight": 35,
+                "price": 90,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Пирожки с вишней и клубникой",
+                "description": "",
+                "weight": 35,
+                "price": 110,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Пирожки с лососем и шпинатом",
+                "description": "",
+                "weight": 35,
+                "price": 110,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Пирожки с капустой",
+                "description": "",
+                "weight": 35,
+                "price": 65,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            }
+        ]
+    },
+    {
+        "name": "Горячие закуски",
+        "position": 1,
+        "products": [
+            {
+                "name": "Баклажажаны пармеджанно  запеченные в баночке ",
+                "description": "",
+                "weight": 150,
+                "price": 280,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Картофель печеный",
+                "description": "",
+                "weight": 100,
+                "price": 150,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Шашлычок из семги",
+                "description": "",
+                "weight": 70,
+                "price": 250,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Шашлычок из свинины",
+                "description": "",
+                "weight": 70,
+                "price": 210,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Рулетик из семги с цукини с соусом песто",
+                "description": "",
+                "weight": 70,
+                "price": 250,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Шашлычок овощной",
+                "description": "",
+                "weight": 50,
+                "price": 120,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Бэби картофель запеченый с травами",
+                "description": "",
+                "weight": 100,
+                "price": 220,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Овощи (кукуруза, перец болгарский, цукини)",
+                "description": "",
+                "weight": 100,
+                "price": 180,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Шашлычок куриный",
+                "description": "",
+                "weight": 70,
+                "price": 180,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Жульен куриный с белыми грибами и шампиньонами",
+                "description": "",
+                "weight": 150,
+                "price": 290,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            }
+        ]
+    },
+    {
+        "name": "Десерты",
+        "position": 1,
+        "products": [
+            {
+                "name": "Фруктовая доска сезонных фруктов ",
+                "description": "",
+                "weight": 2000,
+                "price": 2500,
+                "minOrder": 1,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Фрукты в конусе",
+                "description": "",
+                "weight": 40,
+                "price": 220,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Чизкейк клубничный в шоте",
+                "description": "",
+                "weight": 40,
+                "price": 120,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Чизкейк вишневый",
+                "description": "",
+                "weight": 40,
+                "price": 120,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Панна-котта манговая",
+                "description": "",
+                "weight": 40,
+                "price": 120,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Чизкейк брусничный в шоте",
+                "description": "",
+                "weight": 40,
+                "price": 150,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Фрукты в баночке с кленовым сиропом",
+                "description": "",
+                "weight": 80,
+                "price": 190,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Фруктовые шашлычки",
+                "description": "",
+                "weight": 50,
+                "price": 120,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Фруктовое канапе",
+                "description": "",
+                "weight": 25,
+                "price": 75,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Желе из бузины со свежей ягодой и мятой в баночке",
+                "description": "",
+                "weight": 40,
+                "price": 150,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Клубника в шоколаде",
+                "description": "",
+                "weight": 35,
+                "price": 200,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Десерт сникерс в мини баночке",
+                "description": "",
+                "weight": 35,
+                "price": 250,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Десертные эклеры ",
+                "description": "",
+                "weight": 35,
+                "price": 110,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Десерт тайский мотти клубничное",
+                "description": "",
+                "weight": 40,
+                "price": 120,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Десерт таежный (брусника, кедровый орех, сгущеное молоко)",
+                "description": "",
+                "weight": 40,
+                "price": 150,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Десерт шу с манговым муссом",
+                "description": "",
+                "weight": 40,
+                "price": 110,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Трюфель домашний ",
+                "description": "",
+                "weight": 20,
+                "price": 75,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Мини-капкейки шоколадные с вишней",
+                "description": "",
+                "weight": 50,
+                "price": 110,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Мини-капкейки шоколадные с апельсиновым муссом и свежей голубикой",
+                "description": "",
+                "weight": 50,
+                "price": 110,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Тирамису в шоте",
+                "description": "",
+                "weight": 40,
+                "price": 120,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            }
+        ]
+    },
+    {
+        "name": "Напитки",
+        "position": 1,
+        "products": [
+            {
+                "name": "Морс брусничный собственного приготовления",
+                "description": "",
+                "weight": 1000,
+                "price": 400,
+                "minOrder": 1,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Морс облепиховый собственного приготовления",
+                "description": "",
+                "weight": 1000,
+                "price": 400,
+                "minOrder": 1,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Вода без газа",
+                "description": "",
+                "weight": 330,
+                "price": 60,
+                "minOrder": 1,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Вода газированая",
+                "description": "",
+                "weight": 500,
+                "price": 60,
+                "minOrder": 1,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Кофе три в одном",
+                "description": "",
+                "weight": 200,
+                "price": 80,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Чай, лимон, молоко, сахар",
+                "description": "",
+                "weight": 200,
+                "price": 80,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Кофе зерновое (американо, капучино)",
+                "description": "",
+                "weight": 200,
+                "price": 220,
+                "minOrder": 10,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Домашний лимонад мохито",
+                "description": "",
+                "weight": 1000,
+                "price": 500,
+                "minOrder": 1,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Домашний лимонад манго-маракуйя",
+                "description": "",
+                "weight": 1000,
+                "price": 500,
+                "minOrder": 1,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Домашний лимонад цитрусовый с розмарином и свежей мятой",
+                "description": "",
+                "weight": 1000,
+                "price": 500,
+                "minOrder": 1,
+                "image": "/uploads/catering/default.png"
+            }
+        ]
+    },
+    {
+        "name": "Сервис",
+        "position": 1,
+        "products": [
+            {
+                "name": "Аренда термопода",
+                "description": "",
+                "weight": 0,
+                "price": 1000,
+                "minOrder": 1,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Аренда кофемашины",
+                "description": "",
+                "weight": 0,
+                "price": 2500,
+                "minOrder": 1,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Одноразовая посуда на 10 персон",
+                "description": "",
+                "weight": 0,
+                "price": 350,
+                "minOrder": 1,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Банкетный менеджер",
+                "description": "",
+                "weight": 0,
+                "price": 5000,
+                "minOrder": 1,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Текстиль (скатерть)",
+                "description": "",
+                "weight": 0,
+                "price": 1500,
+                "minOrder": 1,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Аренда бокалов (стекло)",
+                "description": "",
+                "weight": null,
+                "price": 35,
+                "minOrder": 1,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Стол сервировочный для фуршетной линии",
+                "description": "",
+                "weight": null,
+                "price": 1500,
+                "minOrder": 1,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Стол фуршетный гвоздик",
+                "description": "",
+                "weight": 0,
+                "price": 1000,
+                "minOrder": 1,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Стул",
+                "description": "",
+                "weight": 0,
+                "price": 250,
+                "minOrder": 1,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Транспортировка по городу",
+                "description": "",
+                "weight": 0,
+                "price": 3000,
+                "minOrder": 1,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Банкетный официант",
+                "description": "",
+                "weight": 0,
+                "price": 4500,
+                "minOrder": 1,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Грузчик по городу",
+                "description": "",
+                "weight": 0,
+                "price": 1000,
+                "minOrder": 1,
+                "image": ""
+            },
+            {
+                "name": "Грузчик выездной",
+                "description": "",
+                "weight": 0,
+                "price": 1500,
+                "minOrder": 1,
+                "image": ""
+            },
+            {
+                "name": "Официант",
+                "description": "",
+                "weight": 0,
+                "price": 3500,
+                "minOrder": 1,
+                "image": "/uploads/catering/default.png"
+            },
+            {
+                "name": "Сервировка, доставка, уборка (до 30 персон)",
+                "description": "",
+                "weight": 0,
+                "price": 5000,
+                "minOrder": 1,
+                "image": "/uploads/catering/default.png"
+            }
+        ]
+    }
+]
