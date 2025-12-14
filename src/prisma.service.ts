@@ -5,6 +5,20 @@ import { PrismaClient } from '@prisma/client'
 @Injectable()
 export class PrismaService extends PrismaClient implements OnModuleInit {
 	async onModuleInit() {
-		await this.$connect()
+		let retries = 5
+		while (retries > 0) {
+			try {
+				await this.$connect()
+				console.log('Database connected successfully')
+				return
+			} catch (error) {
+				retries--
+				console.log(
+					`Database connection failed, retries left: ${retries}`
+				)
+				if (retries === 0) throw error
+				await new Promise(resolve => setTimeout(resolve, 3000))
+			}
+		}
 	}
 }
