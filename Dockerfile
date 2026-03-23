@@ -8,7 +8,7 @@ FROM node:18-alpine AS builder
 WORKDIR /app
 COPY --from=deps /app/node_modules ./node_modules
 COPY . .
-RUN yarn build && npx prisma generate
+RUN npx prisma generate && yarn build
 
 FROM node:18-alpine AS runner
 WORKDIR /app
