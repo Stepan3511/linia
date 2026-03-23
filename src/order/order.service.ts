@@ -201,17 +201,13 @@ export class OrderService {
 			`Вариант оплаты: ${paymentText}\n\n` +
 			`Общая сумма: ${dto.totalAmount} ₽`
 
-		// Отправляем на почту (бэкап) и в Telegram параллельно
-		const [, telegramSent] = await Promise.all([
-			this.sendOrderEmail(message),
-			this.sendTelegramWithRetry(message)
-		])
+		// Email — ждём (надёжный бэкап)
+		await this.sendOrderEmail(message)
 
-		if (!telegramSent) {
-			throw new BadRequestException(
-				'Ошибка отправки вашего заказа, свяжитесь по номеру: +7 (924) 805-33-55'
-			)
-		}
+		// Telegram — fire-and-forget, не блокируем ответ клиенту
+		this.sendTelegramWithRetry(message).catch(() => {
+			this.logger.error(`Telegram не отправлен для заказа ${order.id}`)
+		})
 
 		return order
 	}
