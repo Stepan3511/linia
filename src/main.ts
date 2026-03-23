@@ -10,7 +10,7 @@ async function bootstrap() {
 
 	app.setGlobalPrefix('api')
 	app.enableCors()
-	app.use('/api/uploads', express.static('uploads'))
+	app.use('/api/uploads', express.static('uploads', { maxAge: '1y', immutable: true }))
 	await app.listen(4200)
 }
 
