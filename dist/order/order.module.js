@@ -12,6 +12,7 @@ const order_controller_1 = require("./order.controller");
 const order_service_1 = require("./order.service");
 const prisma_service_1 = require("../prisma.service");
 const jwt_1 = require("@nestjs/jwt");
+const client_mail_module_1 = require("../client-mail/client-mail.module");
 let OrderModule = class OrderModule {
 };
 exports.OrderModule = OrderModule;
@@ -21,7 +22,8 @@ exports.OrderModule = OrderModule = __decorate([
             jwt_1.JwtModule.register({
                 secret: process.env.JWT_SECRET,
                 signOptions: { expiresIn: '1h' }
-            })
+            }),
+            client_mail_module_1.ClientMailModule
         ],
         controllers: [order_controller_1.OrderController],
         providers: [order_service_1.OrderService, prisma_service_1.PrismaService]

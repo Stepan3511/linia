@@ -4,26 +4,7 @@ import { Request } from 'express';
 export declare class OrderController {
     private readonly orderService;
     constructor(orderService: OrderService);
-    createOrder(dto: CreateOrderDto, req: Request): Promise<{
-        items: {
-            name: string;
-            price: number;
-            id: string;
-            createdAt: Date;
-            updatedAt: Date;
-            productId: string;
-            quantity: number;
-            orderId: string;
-        }[];
-    } & {
-        id: string;
-        createdAt: Date;
-        updatedAt: Date;
-        accountId: string;
-        promoCodeId: string | null;
-        totalAmount: number;
-        status: import(".prisma/client").$Enums.OrderStatus;
-    }>;
+    createOrder(dto: CreateOrderDto, req: Request): Promise<any>;
     getOrderHistory(req: Request): Promise<({
         promoCode: {
             products: {

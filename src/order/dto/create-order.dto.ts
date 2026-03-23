@@ -1,5 +1,6 @@
 import {
 	IsArray,
+	IsBoolean,
 	IsNotEmpty,
 	IsNumber,
 	IsOptional,
@@ -39,4 +40,28 @@ export class CreateOrderDto {
 	@IsNumber()
 	@IsNotEmpty()
 	totalAmount: number
+
+	@IsOptional()
+	@IsString()
+	name?: string
+
+	@IsOptional()
+	@IsString()
+	phone?: string
+
+	@IsOptional()
+	@IsString()
+	address?: string
+
+	@IsOptional()
+	@IsString()
+	deliveryOption?: string
+
+	@IsOptional()
+	@IsBoolean()
+	isDelivery?: boolean
+
+	@IsOptional()
+	@IsString()
+	paymentMethod?: string
 }

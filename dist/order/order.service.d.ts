@@ -1,30 +1,16 @@
 import { PrismaService } from 'src/prisma.service';
 import { CreateOrderDto } from './dto/create-order.dto';
 import { JwtService } from '@nestjs/jwt';
+import { ClientMailService } from 'src/client-mail/client-mail.service';
 export declare class OrderService {
     private readonly prismaService;
     private readonly jwtService;
-    constructor(prismaService: PrismaService, jwtService: JwtService);
-    createOrder(dto: CreateOrderDto, token: string): Promise<{
-        items: {
-            name: string;
-            price: number;
-            id: string;
-            createdAt: Date;
-            updatedAt: Date;
-            productId: string;
-            quantity: number;
-            orderId: string;
-        }[];
-    } & {
-        id: string;
-        createdAt: Date;
-        updatedAt: Date;
-        accountId: string;
-        promoCodeId: string | null;
-        totalAmount: number;
-        status: import(".prisma/client").$Enums.OrderStatus;
-    }>;
+    private readonly mailService;
+    private readonly logger;
+    constructor(prismaService: PrismaService, jwtService: JwtService, mailService: ClientMailService);
+    private sendTelegramWithRetry;
+    private sendOrderEmail;
+    createOrder(dto: CreateOrderDto, token: string): Promise<any>;
     getOrderHistory(token: string): Promise<({
         promoCode: {
             products: {
